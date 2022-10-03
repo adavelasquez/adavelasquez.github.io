@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('fonts/Oswald/Oswald-Medium.ttf');
+}
+
+header{
+    padding: 100px 100px 20px;
+    background-color: #2961F0;
+    text-align: center;
+}
+
+.logo{
+    position: absolute;
+    height: 10vh;
+    left: 2rem;
+    top: 1.5rem;
+}
+
+.links_nav{
+    margin: 10px 30px;
+    font-family: 'Oswald';
+    color: white;
+}
+
+.seccion1{
+    font-family: 'Oswald';
+    font-size: 2rem;
+    color: #132D70;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    align-items:center;
+    justify-content:space-evenly;
+    margin: auto 20rem;
+}
+
+.categorias img{
+    height: 18rem;
+    border-radius: 15px;
+}
+
+.seccion3{
+    background-color: white;
+    font-family: 'Oswald';
+    color: #132D70;
+    margin-top: 50px;
+    margin-left: 480px;
+}
+
+.seccion3 h2{
+    font-size: 2rem;
+}
+
+.noticia1 img{
+    margin: auto;
+    height: 30rem;
+}
+
+.seccion3_bis{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-left: 480px;
+    margin-right: 480px;
+}
+
+.noticias img{
+    height: 15rem;
+}
+
+.noticias p{
+    font-family: 'Oswald';
+    font-size: 1.2rem;
+    color: #132D70;
+}
+
+.seccion4{
+    padding: 50px 100px;
+    background-color: #2961F0;
+    text-align: center;
+    font-family: 'Oswald';
+    color: white;
+}
+
+.apoyan{
+    margin: 30px 50px 10px;
+    height: 80px;
+}
+
+footer{
+    background-color: #132D70;
+    text-align: center;
+    font-family: 'Oswald';
+    color: white;
+    padding: 50px 100px;
+}
+
+#mail{
+    height: 30px;
+    width: 400px;
+    border-radius: 8px;
+    border:0px;
+    font-family: 'Oswald';
+    font-size: 18px;
+    color: #132D70;
+    padding: 0px 0px 0px 15px ;
+}
+
+button{
+    align-content: center;
+    letter-spacing: 3px;
+    font-family: 'Oswald';
+    border-radius: 30px;
+    border:0px;
+    height: 25px;
+    width: 150px;
+    background-color: #7296F2;
+    font-size: 15px;
+}
+
+.redes{
+    height: 30px;
+    margin: 10px 15px 0px;
+}
