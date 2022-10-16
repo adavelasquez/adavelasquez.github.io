@@ -9,10 +9,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&family=Roboto+Mono:wght@300;400;700&family=Silkscreen&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
 <body>
-
     <header>
         <nav>
             <img class="logo" src="logos/logo_pagina3.png" alt="">
@@ -25,30 +25,48 @@
         </nav>
     </header>
 
-    <br>
-    <br>
-    <br>
-
     <body>
+
+        <form class="row form">
+            <h2>Contactanos</h2>
+            <div class="mb-3">
+                <label for="form-name" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="form-name">
+                <p style="color:red ;" id="error-name"></p>
+            </div>
+            <div class="mb-3">
+                <label for="form-lastname" class="form-label">Apellido</label>
+                <input type="text" class="form-control" id="form-lastname">
+                <p style="color:red ;" id="error-lastname"></p>
+              </div>
+            <div class="mb-2">
+              <label for="exampleInputEmail1" class="form-label">Correo electronico</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            </div>
+            <div class="mb-3">
+              <label for="comentario" class="form-label">Comentarios</label>
+              <textarea type="text" class="form-control" id="comentario" placeholder=""></textarea>
+            </div>
+            <button type="button" class="btn-primary" onclick="validate()">Enviar</button>
+          </form>
         
+        <footer>
+            <h2>ENTERATE DE LAS ÚLTIMAS NOVEDADES</h2>
+            <br>
+            <input type="text" name="mail" id="mail" contextmenu="Ingresá un mail">
+            <br>
+            <br>
+            <button><a href="suscribite">SUSCRIBITE</a></button>
+            <br>
+            <br>
+            <br>
+            <a href="https://www.facebook.com/" target="_blank"><img class="redes" src="logos/fb.png" alt=""></a>
+            <a href="https://www.instagram.com/" target="_blank"><img class="redes" src="logos/ig.png" alt=""></a>
+            <a href="https://www.youtube.com/" target="_blank"><img class="redes" src="logos/yt.png" alt=""></a>
+        </footer>
+        
+        <script src = "./js/validations.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </body>
-
-
-    <footer>
-        
-        <h2>ENTERATE DE LAS ÚLTIMAS NOVEDADES</h2>
-        <br>
-        <input type="text" name="mail" id="mail" contextmenu="Ingresá un mail">
-        <br>
-        <br>
-        <button><a href="suscribite">SUSCRIBITE</a></button>
-        <br>
-        <br>
-        <br>
-        <a href="https://www.facebook.com/" target="_blank"><img class="redes" src="logos/fb.png" alt=""></a>
-        <a href="https://www.instagram.com/" target="_blank"><img class="redes" src="logos/ig.png" alt=""></a>
-        <a href="https://www.youtube.com/" target="_blank"><img class="redes" src="logos/yt.png" alt=""></a>
-        
-    </footer>
 
 </html>

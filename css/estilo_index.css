@@ -130,3 +130,7 @@ button{
     height: 30px;
     margin: 10px 15px 0px;
 }
+
+.form{
+    padding: 100px;
+}
