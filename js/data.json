@@ -1,0 +1,1866 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": "10_01_0152_2022_13_0_26",
+            "lastUpdate": "2022-10-18T01:17:32.702Z",
+            "classificationHead": {
+                "classificationType": {
+                    "alternateNames": {
+                        "enEN": "General",
+                        "esES": "General"
+                    },
+                    "id": 10,
+                    "name": "General"
+                },
+                "group": {
+                    "id": "0",
+                    "name": "Único",
+                    "romanNumerals": "",
+                    "alternateNames": {
+                        "enEN": "Only",
+                        "esES": "Único"
+                    }
+                },
+                "phase": {
+                    "alternateNames": {
+                        "enEN": "Regular season",
+                        "esES": "Fase regular"
+                    },
+                    "id": 13,
+                    "name": "Fase regular"
+                },
+                "subphase": {},
+                "season": {
+                    "id": 2022,
+                    "name": "2022-23"
+                },
+                "sport": {
+                    "alternateNames": {
+                        "enEN": "Football",
+                        "esES": "Fútbol"
+                    },
+                    "id": "01",
+                    "name": "Fútbol",
+                    "type": "match"
+                },
+                "tournament": {
+                    "alternateNames": {
+                        "enEN": "Argentine First Division",
+                        "esES": "Liga Argentina",
+                        "itIT": "",
+                        "ptBR": ""
+                    },
+                    "id": "0152",
+                    "name": "Liga Argentina",
+                    "isNational": false
+                },
+                "matchDay": 26
+            },
+            "rank": [
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "69.23",
+                            "won": "9",
+                            "position": "3",
+                            "points": "29",
+                            "played": "13",
+                            "lost": "2",
+                            "for": "20",
+                            "drawn": "2",
+                            "against": "13"
+                        },
+                        "away": {
+                            "wonPercentage": "50.00",
+                            "won": "6",
+                            "position": "4",
+                            "points": "19",
+                            "played": "12",
+                            "lost": "5",
+                            "for": "10",
+                            "drawn": "1",
+                            "against": "12"
+                        },
+                        "wonPercentage": "60.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.862",
+                        "for": "30",
+                        "against": "25",
+                        "drawn": "3",
+                        "lost": "7",
+                        "won": "15",
+                        "played": "25",
+                        "points": "48",
+                        "position": "1"
+                    },
+                    "_id": "634dfeaddb90130012e60039",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Pedro Gonzales",
+                    "name": "Boca",
+                    "id": "540",
+                    "alternateCommonNames": {
+                        "enEN": "Boca",
+                        "esES": "Boca",
+                        "itIT": "Boca",
+                        "ptBR": "Boca"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/540.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/540.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/540.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/540.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/540.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/540.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/540.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/540.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "69.23",
+                            "won": "9",
+                            "position": "1",
+                            "points": "30",
+                            "played": "13",
+                            "lost": "1",
+                            "for": "25",
+                            "drawn": "3",
+                            "against": "10"
+                        },
+                        "away": {
+                            "wonPercentage": "33.33",
+                            "won": "4",
+                            "position": "6",
+                            "points": "17",
+                            "played": "12",
+                            "lost": "3",
+                            "for": "14",
+                            "drawn": "5",
+                            "against": "12"
+                        },
+                        "wonPercentage": "52.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.632",
+                        "for": "39",
+                        "against": "22",
+                        "drawn": "8",
+                        "lost": "4",
+                        "won": "13",
+                        "played": "25",
+                        "points": "47",
+                        "position": "2"
+                    },
+                    "_id": "634dfeaddb90130012e60038",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Dario benedeto",
+                    "name": "Racing",
+                    "id": "986",
+                    "alternateCommonNames": {
+                        "enEN": "Racing",
+                        "esES": "Racing",
+                        "itIT": "Racing",
+                        "ptBR": "Racing"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/986.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/986.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/986.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/986.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/986.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/986.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/986.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/986.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "57.14",
+                            "won": "8",
+                            "position": "2",
+                            "points": "30",
+                            "played": "14",
+                            "lost": "0",
+                            "for": "21",
+                            "drawn": "6",
+                            "against": "7"
+                        },
+                        "away": {
+                            "wonPercentage": "33.33",
+                            "won": "4",
+                            "position": "11",
+                            "points": "16",
+                            "played": "12",
+                            "lost": "4",
+                            "for": "9",
+                            "drawn": "4",
+                            "against": "11"
+                        },
+                        "wonPercentage": "46.15",
+                        "posVariation": "0",
+                        "relegationAverage": "1.341",
+                        "for": "30",
+                        "against": "18",
+                        "drawn": "10",
+                        "lost": "4",
+                        "won": "12",
+                        "played": "26",
+                        "points": "46",
+                        "position": "3"
+                    },
+                    "_id": "634dfeaddb90130012e60037",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Atlético Tucumán",
+                    "name": "Atl. Tucumán",
+                    "id": "4671",
+                    "alternateCommonNames": {
+                        "enEN": "Atl. Tucumán",
+                        "esES": "Atl. Tucumán",
+                        "itIT": "Atl. Tucumán",
+                        "ptBR": "Atl. Tucumán"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/4671.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/4671.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/4671.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/4671.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/4671.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/4671.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/4671.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/4671.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "53.85",
+                            "won": "7",
+                            "position": "11",
+                            "points": "22",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "22",
+                            "drawn": "1",
+                            "against": "12"
+                        },
+                        "away": {
+                            "wonPercentage": "46.15",
+                            "won": "6",
+                            "position": "1",
+                            "points": "22",
+                            "played": "13",
+                            "lost": "3",
+                            "for": "19",
+                            "drawn": "4",
+                            "against": "9"
+                        },
+                        "wonPercentage": "50.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.886",
+                        "for": "41",
+                        "against": "21",
+                        "drawn": "5",
+                        "lost": "8",
+                        "won": "13",
+                        "played": "26",
+                        "points": "44",
+                        "position": "4"
+                    },
+                    "_id": "634dfeaddb90130012e60036",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "River Plate",
+                    "name": "River",
+                    "id": "608",
+                    "alternateCommonNames": {
+                        "enEN": "River",
+                        "esES": "River",
+                        "itIT": "River",
+                        "ptBR": "River"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/608.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/608.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/608.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/608.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/608.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/608.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/608.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/608.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "66.67",
+                            "won": "8",
+                            "position": "4",
+                            "points": "27",
+                            "played": "12",
+                            "lost": "1",
+                            "for": "20",
+                            "drawn": "3",
+                            "against": "7"
+                        },
+                        "away": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "8",
+                            "points": "17",
+                            "played": "13",
+                            "lost": "2",
+                            "for": "11",
+                            "drawn": "8",
+                            "against": "11"
+                        },
+                        "wonPercentage": "44.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.345",
+                        "for": "31",
+                        "against": "18",
+                        "drawn": "11",
+                        "lost": "3",
+                        "won": "11",
+                        "played": "25",
+                        "points": "44",
+                        "position": "5"
+                    },
+                    "_id": "634dfeaddb90130012e60035",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Huracán",
+                    "name": "Huracán",
+                    "id": "2578",
+                    "alternateCommonNames": {
+                        "enEN": "Huracán",
+                        "esES": "Huracán",
+                        "itIT": "Huracán",
+                        "ptBR": "Huracán"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2578.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2578.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2578.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2578.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2578.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2578.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2578.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2578.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "58.33",
+                            "won": "7",
+                            "position": "6",
+                            "points": "24",
+                            "played": "12",
+                            "lost": "2",
+                            "for": "14",
+                            "drawn": "3",
+                            "against": "4"
+                        },
+                        "away": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "9",
+                            "points": "17",
+                            "played": "13",
+                            "lost": "4",
+                            "for": "10",
+                            "drawn": "5",
+                            "against": "10"
+                        },
+                        "wonPercentage": "44.00",
+                        "posVariation": "1",
+                        "relegationAverage": "1.333",
+                        "for": "24",
+                        "against": "14",
+                        "drawn": "8",
+                        "lost": "6",
+                        "won": "11",
+                        "played": "25",
+                        "points": "41",
+                        "position": "6"
+                    },
+                    "_id": "634dfeaddb90130012e60034",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Gimnasia La Plata",
+                    "name": "Gimnasia",
+                    "id": "1392",
+                    "alternateCommonNames": {
+                        "enEN": "Gimnasia",
+                        "esES": "Gimnasia",
+                        "itIT": "Gimnasia",
+                        "ptBR": "Gimnasia"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1392.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1392.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1392.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1392.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1392.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1392.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1392.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/1392.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "50.00",
+                            "won": "6",
+                            "position": "8",
+                            "points": "23",
+                            "played": "12",
+                            "lost": "1",
+                            "for": "19",
+                            "drawn": "5",
+                            "against": "8"
+                        },
+                        "away": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "7",
+                            "points": "17",
+                            "played": "13",
+                            "lost": "4",
+                            "for": "19",
+                            "drawn": "5",
+                            "against": "19"
+                        },
+                        "wonPercentage": "40.00",
+                        "posVariation": "-1",
+                        "relegationAverage": "1.600",
+                        "for": "38",
+                        "against": "27",
+                        "drawn": "10",
+                        "lost": "5",
+                        "won": "10",
+                        "played": "25",
+                        "points": "40",
+                        "position": "7"
+                    },
+                    "_id": "634dfeaddb90130012e60033",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Tigre",
+                    "name": "Tigre",
+                    "id": "2580",
+                    "alternateCommonNames": {
+                        "enEN": "Tigre",
+                        "esES": "Tigre",
+                        "itIT": "Tigre",
+                        "ptBR": "Tigre"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2580.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2580.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2580.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2580.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2580.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2580.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2580.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2580.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "14",
+                            "points": "20",
+                            "played": "13",
+                            "lost": "1",
+                            "for": "16",
+                            "drawn": "8",
+                            "against": "12"
+                        },
+                        "away": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "3",
+                            "points": "20",
+                            "played": "13",
+                            "lost": "3",
+                            "for": "13",
+                            "drawn": "5",
+                            "against": "10"
+                        },
+                        "wonPercentage": "34.62",
+                        "posVariation": "1",
+                        "relegationAverage": "1.443",
+                        "for": "29",
+                        "against": "22",
+                        "drawn": "13",
+                        "lost": "4",
+                        "won": "9",
+                        "played": "26",
+                        "points": "40",
+                        "position": "8"
+                    },
+                    "_id": "634dfeaddb90130012e60032",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "San Lorenzo",
+                    "name": "San Lorenzo",
+                    "id": "2549",
+                    "alternateCommonNames": {
+                        "enEN": "San Lorenzo",
+                        "esES": "San Lorenzo",
+                        "itIT": "San Lorenzo",
+                        "ptBR": "San Lorenzo"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2549.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2549.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2549.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2549.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2549.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2549.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2549.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2549.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "53.85",
+                            "won": "7",
+                            "position": "10",
+                            "points": "23",
+                            "played": "13",
+                            "lost": "4",
+                            "for": "16",
+                            "drawn": "2",
+                            "against": "14"
+                        },
+                        "away": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "10",
+                            "points": "16",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "15",
+                            "drawn": "4",
+                            "against": "10"
+                        },
+                        "wonPercentage": "42.31",
+                        "posVariation": "-1",
+                        "relegationAverage": "1.500",
+                        "for": "31",
+                        "against": "24",
+                        "drawn": "6",
+                        "lost": "9",
+                        "won": "11",
+                        "played": "26",
+                        "points": "39",
+                        "position": "9"
+                    },
+                    "_id": "634dfeaddb90130012e60031",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Argentinos Juniors",
+                    "name": "Argentinos",
+                    "id": "846",
+                    "alternateCommonNames": {
+                        "enEN": "Argentinos",
+                        "esES": "Argentinos",
+                        "itIT": "Argentinos",
+                        "ptBR": "Argentinos"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/846.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/846.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/846.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/846.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/846.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/846.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/846.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/846.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "22",
+                            "points": "17",
+                            "played": "13",
+                            "lost": "4",
+                            "for": "11",
+                            "drawn": "5",
+                            "against": "9"
+                        },
+                        "away": {
+                            "wonPercentage": "53.85",
+                            "won": "7",
+                            "position": "2",
+                            "points": "22",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "14",
+                            "drawn": "1",
+                            "against": "12"
+                        },
+                        "wonPercentage": "42.31",
+                        "posVariation": "0",
+                        "relegationAverage": "1.318",
+                        "for": "25",
+                        "against": "21",
+                        "drawn": "6",
+                        "lost": "9",
+                        "won": "11",
+                        "played": "26",
+                        "points": "39",
+                        "position": "10"
+                    },
+                    "_id": "634dfeaddb90130012e60030",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Newell's Old Boys",
+                    "name": "Newell's",
+                    "id": "1095",
+                    "alternateCommonNames": {
+                        "enEN": "Newell's",
+                        "esES": "Newell's",
+                        "itIT": "Newell's",
+                        "ptBR": "Newell's"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1095.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1095.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1095.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1095.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1095.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1095.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1095.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/1095.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "53.85",
+                            "won": "7",
+                            "position": "5",
+                            "points": "25",
+                            "played": "13",
+                            "lost": "2",
+                            "for": "15",
+                            "drawn": "4",
+                            "against": "7"
+                        },
+                        "away": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "18",
+                            "points": "12",
+                            "played": "13",
+                            "lost": "7",
+                            "for": "13",
+                            "drawn": "3",
+                            "against": "18"
+                        },
+                        "wonPercentage": "38.46",
+                        "posVariation": "1",
+                        "relegationAverage": "1.102",
+                        "for": "28",
+                        "against": "25",
+                        "drawn": "7",
+                        "lost": "9",
+                        "won": "10",
+                        "played": "26",
+                        "points": "37",
+                        "position": "11"
+                    },
+                    "_id": "634dfeaddb90130012e6002f",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Patronato",
+                    "name": "Patronato",
+                    "id": "8628",
+                    "alternateCommonNames": {
+                        "enEN": "Patronato",
+                        "esES": "Patronato",
+                        "itIT": "Patronato",
+                        "ptBR": "Patronato"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8628.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8628.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8628.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8628.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8628.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8628.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/8628.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/8628.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "46.15",
+                            "won": "6",
+                            "position": "9",
+                            "points": "23",
+                            "played": "13",
+                            "lost": "2",
+                            "for": "13",
+                            "drawn": "5",
+                            "against": "7"
+                        },
+                        "away": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "20",
+                            "points": "12",
+                            "played": "13",
+                            "lost": "7",
+                            "for": "12",
+                            "drawn": "3",
+                            "against": "20"
+                        },
+                        "wonPercentage": "34.62",
+                        "posVariation": "-1",
+                        "relegationAverage": "1.125",
+                        "for": "25",
+                        "against": "27",
+                        "drawn": "8",
+                        "lost": "9",
+                        "won": "9",
+                        "played": "26",
+                        "points": "35",
+                        "position": "12"
+                    },
+                    "_id": "634dfeaddb90130012e6002e",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Godoy Cruz",
+                    "name": "Godoy Cruz",
+                    "id": "2834",
+                    "alternateCommonNames": {
+                        "enEN": "Godoy Cruz",
+                        "esES": "Godoy Cruz",
+                        "itIT": "Godoy Cruz",
+                        "ptBR": "Godoy Cruz"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2834.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2834.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2834.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2834.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2834.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2834.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2834.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2834.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "19",
+                            "points": "19",
+                            "played": "13",
+                            "lost": "4",
+                            "for": "14",
+                            "drawn": "4",
+                            "against": "12"
+                        },
+                        "away": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "12",
+                            "points": "15",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "15",
+                            "drawn": "3",
+                            "against": "17"
+                        },
+                        "wonPercentage": "34.62",
+                        "posVariation": "2",
+                        "relegationAverage": "1.409",
+                        "for": "29",
+                        "against": "29",
+                        "drawn": "7",
+                        "lost": "10",
+                        "won": "9",
+                        "played": "26",
+                        "points": "34",
+                        "position": "13"
+                    },
+                    "_id": "634dfeaddb90130012e6002d",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Independiente",
+                    "name": "Independiente",
+                    "id": "1243",
+                    "alternateCommonNames": {
+                        "enEN": "Independiente",
+                        "esES": "Independiente",
+                        "itIT": "Independiente",
+                        "ptBR": "Independiente"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1243.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1243.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1243.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1243.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1243.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1243.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1243.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/1243.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "13",
+                            "points": "22",
+                            "played": "13",
+                            "lost": "1",
+                            "for": "15",
+                            "drawn": "7",
+                            "against": "11"
+                        },
+                        "away": {
+                            "wonPercentage": "25.00",
+                            "won": "3",
+                            "position": "19",
+                            "points": "12",
+                            "played": "12",
+                            "lost": "6",
+                            "for": "9",
+                            "drawn": "3",
+                            "against": "14"
+                        },
+                        "wonPercentage": "32.00",
+                        "posVariation": "-1",
+                        "relegationAverage": "1.517",
+                        "for": "24",
+                        "against": "25",
+                        "drawn": "10",
+                        "lost": "7",
+                        "won": "8",
+                        "played": "25",
+                        "points": "34",
+                        "position": "14"
+                    },
+                    "_id": "634dfeaddb90130012e6002c",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Defensa y Justicia",
+                    "name": "Defensa",
+                    "id": "8625",
+                    "alternateCommonNames": {
+                        "enEN": "Defensa",
+                        "esES": "Defensa",
+                        "itIT": "Defensa",
+                        "ptBR": "Defensa"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8625.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8625.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8625.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8625.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8625.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8625.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/8625.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/8625.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "50.00",
+                            "won": "6",
+                            "position": "15",
+                            "points": "20",
+                            "played": "12",
+                            "lost": "4",
+                            "for": "15",
+                            "drawn": "2",
+                            "against": "11"
+                        },
+                        "away": {
+                            "wonPercentage": "15.38",
+                            "won": "2",
+                            "position": "21",
+                            "points": "11",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "9",
+                            "drawn": "5",
+                            "against": "12"
+                        },
+                        "wonPercentage": "32.00",
+                        "posVariation": "6",
+                        "relegationAverage": "1.540",
+                        "for": "24",
+                        "against": "23",
+                        "drawn": "7",
+                        "lost": "10",
+                        "won": "8",
+                        "played": "25",
+                        "points": "31",
+                        "position": "16"
+                    },
+                    "_id": "634dfeaddb90130012e6002a",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Talleres de Córdoba",
+                    "name": "Talleres",
+                    "id": "1071",
+                    "alternateCommonNames": {
+                        "enEN": "Talleres",
+                        "esES": "Talleres",
+                        "itIT": "Talleres",
+                        "ptBR": "Talleres"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1071.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1071.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1071.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1071.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1071.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1071.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1071.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/1071.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "16",
+                            "points": "20",
+                            "played": "13",
+                            "lost": "3",
+                            "for": "10",
+                            "drawn": "5",
+                            "against": "9"
+                        },
+                        "away": {
+                            "wonPercentage": "15.38",
+                            "won": "2",
+                            "position": "22",
+                            "points": "11",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "13",
+                            "drawn": "5",
+                            "against": "18"
+                        },
+                        "wonPercentage": "26.92",
+                        "posVariation": "4",
+                        "relegationAverage": "1.330",
+                        "for": "23",
+                        "against": "27",
+                        "drawn": "10",
+                        "lost": "9",
+                        "won": "7",
+                        "played": "26",
+                        "points": "31",
+                        "position": "19"
+                    },
+                    "_id": "634dfeaddb90130012e60027",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Rosario Central",
+                    "name": "Central",
+                    "id": "745",
+                    "alternateCommonNames": {
+                        "enEN": "Central",
+                        "esES": "Central",
+                        "itIT": "Central",
+                        "ptBR": "Central"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/745.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/745.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/745.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/745.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/745.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/745.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/745.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/745.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "21",
+                            "points": "18",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "17",
+                            "drawn": "3",
+                            "against": "16"
+                        },
+                        "away": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "15",
+                            "points": "13",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "9",
+                            "drawn": "4",
+                            "against": "15"
+                        },
+                        "wonPercentage": "30.77",
+                        "posVariation": "-3",
+                        "relegationAverage": "1.047",
+                        "for": "26",
+                        "against": "31",
+                        "drawn": "7",
+                        "lost": "11",
+                        "won": "8",
+                        "played": "26",
+                        "points": "31",
+                        "position": "20"
+                    },
+                    "_id": "634dfeaddb90130012e60026",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Sarmiento",
+                    "name": "Sarmiento",
+                    "id": "8629",
+                    "alternateCommonNames": {
+                        "enEN": "Sarmiento",
+                        "esES": "Sarmiento",
+                        "itIT": "Sarmiento",
+                        "ptBR": "Sarmiento"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8629.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8629.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8629.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8629.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8629.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8629.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/8629.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/8629.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "41.67",
+                            "won": "5",
+                            "position": "24",
+                            "points": "17",
+                            "played": "12",
+                            "lost": "5",
+                            "for": "11",
+                            "drawn": "2",
+                            "against": "13"
+                        },
+                        "away": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "14",
+                            "points": "14",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "13",
+                            "drawn": "5",
+                            "against": "16"
+                        },
+                        "wonPercentage": "32.00",
+                        "posVariation": "-3",
+                        "relegationAverage": "1.287",
+                        "for": "24",
+                        "against": "29",
+                        "drawn": "7",
+                        "lost": "10",
+                        "won": "8",
+                        "played": "25",
+                        "points": "31",
+                        "position": "21"
+                    },
+                    "_id": "634dfeaddb90130012e60025",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Unión Santa Fe",
+                    "name": "Unión",
+                    "id": "6374",
+                    "alternateCommonNames": {
+                        "enEN": "Unión",
+                        "esES": "Unión",
+                        "itIT": "Unión",
+                        "ptBR": "Unión"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/6374.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/6374.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/6374.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/6374.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/6374.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/6374.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/6374.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/6374.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "53.85",
+                            "won": "7",
+                            "position": "7",
+                            "points": "24",
+                            "played": "13",
+                            "lost": "3",
+                            "for": "18",
+                            "drawn": "3",
+                            "against": "14"
+                        },
+                        "away": {
+                            "wonPercentage": "7.69",
+                            "won": "1",
+                            "position": "27",
+                            "points": "6",
+                            "played": "13",
+                            "lost": "9",
+                            "for": "8",
+                            "drawn": "3",
+                            "against": "26"
+                        },
+                        "wonPercentage": "30.77",
+                        "posVariation": "-2",
+                        "relegationAverage": "1.375",
+                        "for": "26",
+                        "against": "40",
+                        "drawn": "6",
+                        "lost": "12",
+                        "won": "8",
+                        "played": "26",
+                        "points": "30",
+                        "position": "22"
+                    },
+                    "_id": "634dfeaddb90130012e60024",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Estudiantes La Plata",
+                    "name": "Estudiantes",
+                    "id": "927",
+                    "alternateCommonNames": {
+                        "enEN": "Estudiantes",
+                        "esES": "Estudiantes",
+                        "itIT": "Estudiantes",
+                        "ptBR": "Estudiantes"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/927.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/927.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/927.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/927.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/927.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/927.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/927.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/927.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "15.38",
+                            "won": "2",
+                            "position": "27",
+                            "points": "11",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "13",
+                            "drawn": "5",
+                            "against": "19"
+                        },
+                        "away": {
+                            "wonPercentage": "38.46",
+                            "won": "5",
+                            "position": "5",
+                            "points": "18",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "10",
+                            "drawn": "3",
+                            "against": "10"
+                        },
+                        "wonPercentage": "26.92",
+                        "posVariation": "-2",
+                        "relegationAverage": "1.170",
+                        "for": "23",
+                        "against": "29",
+                        "drawn": "8",
+                        "lost": "11",
+                        "won": "7",
+                        "played": "26",
+                        "points": "29",
+                        "position": "23"
+                    },
+                    "_id": "634dfeaddb90130012e60023",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Banfield",
+                    "name": "Banfield",
+                    "id": "2451",
+                    "alternateCommonNames": {
+                        "enEN": "Banfield",
+                        "esES": "Banfield",
+                        "itIT": "Banfield",
+                        "ptBR": "Banfield"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2451.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2451.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2451.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2451.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2451.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2451.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2451.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2451.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "25",
+                            "points": "16",
+                            "played": "13",
+                            "lost": "5",
+                            "for": "11",
+                            "drawn": "4",
+                            "against": "18"
+                        },
+                        "away": {
+                            "wonPercentage": "25.00",
+                            "won": "3",
+                            "position": "16",
+                            "points": "12",
+                            "played": "12",
+                            "lost": "6",
+                            "for": "11",
+                            "drawn": "3",
+                            "against": "15"
+                        },
+                        "wonPercentage": "28.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.299",
+                        "for": "22",
+                        "against": "33",
+                        "drawn": "7",
+                        "lost": "11",
+                        "won": "7",
+                        "played": "25",
+                        "points": "28",
+                        "position": "24"
+                    },
+                    "_id": "634dfeaddb90130012e60022",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Colón Santa Fe",
+                    "name": "Colón",
+                    "id": "1027",
+                    "alternateCommonNames": {
+                        "enEN": "Colón",
+                        "esES": "Colón",
+                        "itIT": "Colón",
+                        "ptBR": "Colón"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/1027.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1027.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/1027.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/1027.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/1027.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/1027.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1027.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/1027.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "30.77",
+                            "won": "4",
+                            "position": "20",
+                            "points": "18",
+                            "played": "13",
+                            "lost": "3",
+                            "for": "16",
+                            "drawn": "6",
+                            "against": "13"
+                        },
+                        "away": {
+                            "wonPercentage": "7.69",
+                            "won": "1",
+                            "position": "24",
+                            "points": "9",
+                            "played": "13",
+                            "lost": "6",
+                            "for": "8",
+                            "drawn": "6",
+                            "against": "15"
+                        },
+                        "wonPercentage": "19.23",
+                        "posVariation": "0",
+                        "relegationAverage": "1.080",
+                        "for": "24",
+                        "against": "28",
+                        "drawn": "12",
+                        "lost": "9",
+                        "won": "5",
+                        "played": "26",
+                        "points": "27",
+                        "position": "25"
+                    },
+                    "_id": "634dfeaddb90130012e60021",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Arsenal de Sarandí",
+                    "name": "Arsenal",
+                    "id": "2577",
+                    "alternateCommonNames": {
+                        "enEN": "Arsenal",
+                        "esES": "Arsenal",
+                        "itIT": "Arsenal",
+                        "ptBR": "Arsenal"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2577.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2577.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2577.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2577.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2577.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2577.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2577.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2577.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "41.67",
+                            "won": "5",
+                            "position": "17",
+                            "points": "19",
+                            "played": "12",
+                            "lost": "3",
+                            "for": "15",
+                            "drawn": "4",
+                            "against": "9"
+                        },
+                        "away": {
+                            "wonPercentage": "0.00",
+                            "won": "0",
+                            "position": "26",
+                            "points": "6",
+                            "played": "13",
+                            "lost": "7",
+                            "for": "12",
+                            "drawn": "6",
+                            "against": "21"
+                        },
+                        "wonPercentage": "20.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.540",
+                        "for": "27",
+                        "against": "30",
+                        "drawn": "10",
+                        "lost": "10",
+                        "won": "5",
+                        "played": "25",
+                        "points": "25",
+                        "position": "26"
+                    },
+                    "_id": "634dfeaddb90130012e60020",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Vélez Sarsfield",
+                    "name": "Vélez",
+                    "id": "570",
+                    "alternateCommonNames": {
+                        "enEN": "Vélez",
+                        "esES": "Vélez",
+                        "itIT": "Vélez",
+                        "ptBR": "Vélez"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/570.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/570.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/570.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/570.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/570.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/570.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/570.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/570.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "25.00",
+                            "won": "3",
+                            "position": "26",
+                            "points": "12",
+                            "played": "12",
+                            "lost": "6",
+                            "for": "11",
+                            "drawn": "3",
+                            "against": "16"
+                        },
+                        "away": {
+                            "wonPercentage": "15.38",
+                            "won": "2",
+                            "position": "25",
+                            "points": "8",
+                            "played": "13",
+                            "lost": "9",
+                            "for": "10",
+                            "drawn": "2",
+                            "against": "22"
+                        },
+                        "wonPercentage": "20.00",
+                        "posVariation": "0",
+                        "relegationAverage": "1.287",
+                        "for": "21",
+                        "against": "38",
+                        "drawn": "5",
+                        "lost": "15",
+                        "won": "5",
+                        "played": "25",
+                        "points": "20",
+                        "position": "27"
+                    },
+                    "_id": "634dfeaddb90130012e6001f",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Lanús",
+                    "name": "Lanús",
+                    "id": "2473",
+                    "alternateCommonNames": {
+                        "enEN": "Lanús",
+                        "esES": "Lanús",
+                        "itIT": "Lanús",
+                        "ptBR": "Lanús"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/2473.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2473.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/2473.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/2473.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/2473.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/2473.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/2473.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/2473.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                },
+                {
+                    "standing": {
+                        "home": {
+                            "wonPercentage": "23.08",
+                            "won": "3",
+                            "position": "28",
+                            "points": "10",
+                            "played": "13",
+                            "lost": "9",
+                            "for": "10",
+                            "drawn": "1",
+                            "against": "20"
+                        },
+                        "away": {
+                            "wonPercentage": "7.69",
+                            "won": "1",
+                            "position": "28",
+                            "points": "6",
+                            "played": "13",
+                            "lost": "9",
+                            "for": "6",
+                            "drawn": "3",
+                            "against": "25"
+                        },
+                        "wonPercentage": "15.38",
+                        "posVariation": "0",
+                        "relegationAverage": "0.932",
+                        "for": "16",
+                        "against": "45",
+                        "drawn": "4",
+                        "lost": "18",
+                        "won": "4",
+                        "played": "26",
+                        "points": "16",
+                        "position": "28"
+                    },
+                    "_id": "634dfeaddb90130012e6001e",
+                    "alternateCountryNames": {
+                        "enEN": "Argentina",
+                        "esES": "Argentina"
+                    },
+                    "countryName": "Argentina",
+                    "country": "ARG",
+                    "fullName": "Aldosivi",
+                    "name": "Aldosivi",
+                    "id": "8621",
+                    "alternateCommonNames": {
+                        "enEN": "Aldosivi",
+                        "esES": "Aldosivi",
+                        "itIT": "Aldosivi",
+                        "ptBR": "Aldosivi"
+                    },
+                    "imageUrlSizes": {
+                        "XS": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/16x16/8621.png",
+                        "S": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8621.png",
+                        "M": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/80x80/8621.png",
+                        "L": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/128x128/8621.png"
+                    },
+                    "imageUrl": "https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/35x35/8621.png",
+                    "images": {
+                        "urlLogo": [
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/8621.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/8621.png",
+                            "https://e00-marca.uecdn.es/assets/sports/logos/football/png/36x36/8621.png"
+                        ],
+                        "urlFlag": [
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/144x144/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/72x72/ARG.png",
+                            "https://e00-marca.uecdn.es/assets/sports/flags/png/36x36/ARG.png"
+                        ]
+                    }
+                }
+            ],
+            "blocked": false
+        }
+    ],
+    "timestamp": "2022-10-18T01:20:05.450Z"
+}
