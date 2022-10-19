@@ -1,4 +1,4 @@
-const direccion = "https://www.thesportsdb.com/api/v1/json/2/search_all_teams.php?s=Soccer&c=Spain";
+const direccion = "https://api.unidadeditorial.es/sports/v1/classifications/current/?site=2&type=10&tournament=0152"; // no deja acceder por error de cors, se copio la informacion en data.json 
 
 // crear async
 async function obtenerDatos(){
