@@ -1,22 +1,22 @@
 *{
-    margin: 0px;
+    margin: 0;
+    box-sizing: border-box;
     text-decoration: none;
 }
 
-/*media queries*/
+
+/*media queries--------------------------------------------------------------------------*/
 @media only screen and (min-width: 600px) {
     .tabla_seleccion {
         width: 100%;
     }
 }
 
-
 @media only screen and (min-width: 768px) {
     .tabla_seleccion {
         width: 60%;
     }
 }
-
 
 @media only screen and (min-width: 992px) {
     .tabla_seleccion {
@@ -25,19 +25,18 @@
 }
 
 
-/*font*/
+/*font-----------------------------------------------------------------------------------*/
 @font-face {
     font-family: 'Oswald';
     src: url('fonts/Oswald/Oswald-Medium.ttf');
 }
 
 
-/*animacion*/
+/*animacion------------------------------------------------------------------------------*/
 @keyframes animacion_logo {
     from {opacity: 0};
     to {opacity: 100};
 }
-
 
 
 
@@ -61,16 +60,90 @@ header{
     margin: 10px 30px;
     font-family: 'Oswald';
     color: white;
+    text-decoration: none;
 }
 
-/*
-.seccion1{
-    font-family: 'Oswald';
-    font-size: 2rem;
-    color: #132D70;
-    text-align: center;
+.links_nav:hover{
+    color: white;
+    text-decoration: underline;
 }
-*/
+
+/*CARROUSEL INICIO-----------------------------------------------------------------------*/
+.carrousel{
+    width: 100%;
+}
+
+.conteCarrousel{
+    width: 100%;
+    height: 650px;
+    overflow: hidden;
+}
+
+.itemCarrousel{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.itemCarrouselTarjeta{
+    width: 100%;
+    height: 100%;
+}
+
+.itemCarrouselTarjeta img{
+    display: flex;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.itemCarrouselArrows{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px; 
+}
+
+.itemCarrouselArrows > i:hover {
+    cursor: pointer;
+}
+
+#itemCarrousel-1{
+    background-color: #2961F0;
+}
+
+#itemCarrousel-2{
+    background-color: #2961F0;
+}
+
+#itemCarrousel-3{
+    background-color: #2961F0;
+}
+
+.conteCarrouselController{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.conteCarrouselController > a{
+    text-decoration: none;
+    font-size: 2em;
+    color: grey;
+}
+
+.itemCarrouselArrows > a > i{
+    color: white;
+}
+/*CARROUSEL FINAL-----------------------------------------------------------------------*/
+
 
 .flex-container {
     display: flex;
@@ -150,7 +223,15 @@ footer{
     padding: 0px 0px 0px 15px ;
 }
 
-button{
+
+#email{
+    width: 30rem;
+    height: 2rem;
+    border-radius: 10px;
+    font-family: 'Oswald';
+}
+
+#botonSuscribite{
     align-content: center;
     letter-spacing: 3px;
     font-family: 'Oswald';
@@ -162,6 +243,7 @@ button{
     background-color: #7296F2;
     font-size: 15px;
 }
+
 
 .redes{
     height: 30px;

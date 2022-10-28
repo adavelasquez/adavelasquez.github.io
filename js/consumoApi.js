@@ -1,5 +1,5 @@
 const API_KEY = "e1dd3c21162e5dceeac6783c306e1352cdf7a0bb88fc6ba64605e3805172b78f";
-const direccion = `https://apiv2.allsportsapi.com/football/?met=Countries&APIkey=${API_KEY}`; // no deja acceder por error de Cors, se copio la informacion en data.json 
+const direccion = `https://apiv2.allsportsapi.com/football/?met=Countries&APIkey=${API_KEY}`;
 
 // crear async
 async function obtenerDatos(){
